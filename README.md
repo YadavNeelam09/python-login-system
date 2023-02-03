@@ -1,7 +1,7 @@
 # python-login-system
 Tkinter is a standard Python library for creating graphical user interfaces. 
 <html>
-<title>python tkinter login system</title>
+<!-- <title>python tkinter login system</title> -->
 <head>python tkinter login system</head>
 <body>
 <p>Tkinter is a standard Python library for creating graphical user interfaces. It provides a wide range of widgets such as labels, buttons, and entry fields, which can be used to create a variety of different user interfaces. This project comprised of username entry, password entry and Buttons like Login Button, Forgot Password Button and Sign Up Button.
